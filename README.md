@@ -34,12 +34,17 @@ Focus on minimum viable product (MVP). What would that look like for the memory 
 - Forget about lives
 - Focus on getting the actual game to work first! Then focus on the next feature.
 
-### Deliverables
+### to start
 
-- An app running on gh-pages, containing at least:
-  - `index.html`
-  - One or more CSS files (e.g. `css/main.css`)
-  - One or more JavaScript files (e.g. `js/main.js`)
+```bash
+npm run start
+```
+### to quit
+
+```bash
+control c
+```
+
 
 ## Normal Mode
 
